@@ -96,6 +96,7 @@ Step14. click on debug and simulate using simulation as shown below
   
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 TIM_HandleTypeDef htim2;
 
@@ -220,7 +221,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 
 
-
+```
 
 ## Output screen shots of proteus  :
  
